@@ -1,1 +1,1 @@
-# Joy REcognition Model
+# Joy Recognition Model
