@@ -1,6 +1,6 @@
 # Joy Recognition Model
 
-This is whwere we create the machine leraning model for recognizing happy emotion behind people's mask.
+This is where we create the machine leraning model for recognizing happy emotion behind people's mask.
 
 1. Split it in to three sections: Preprocessing, Trainning, and Testing. 
     - The dataset contains different action unit extracted from OpenFace
